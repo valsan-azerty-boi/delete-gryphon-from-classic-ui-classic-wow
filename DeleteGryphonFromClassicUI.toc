@@ -1,0 +1,8 @@
+## Interface: 11302
+## Title: DeleteGryphonFromClassicUI
+## Author: valsan-azerty-boi
+## Version: 1.0-BETA
+## DefaultState: Enabled
+## LoadOnDemand: 0
+
+DeleteGryphonFromClassicUI.lua
