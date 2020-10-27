@@ -1,7 +1,7 @@
-## Interface: 11302
+## Interface: 11305
 ## Title: DeleteGryphonFromClassicUI
 ## Author: valsan-azerty-boi
-## Version: 1.0-BETA
+## Version: 1.0
 ## DefaultState: Enabled
 ## LoadOnDemand: 0
 
